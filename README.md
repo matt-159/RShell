@@ -2,7 +2,6 @@
 
 # Project Information
 Quarter and Year: Fall 2019 
-Names: Matthew Owen and Garrett Yamano
 
 # Introduction
 
